@@ -11,7 +11,7 @@
 **차수**|**챕터**|**발표자**|**자료링크**
 :-----:|:-----:|:-----:|:-----:
 1|2.1. 소개|한상효|https://bit.ly/33wWrqR
-1|2.2. Gluon 시작하기|한상효|구두 발표
+1|2.2. Gluon 시작하기|한상효|http://bit.ly/2NXPdFv
 1|2.3. 데이터 조작(data manipulation)|이정학|http://bit.ly/32hMKuJ
 1|2.4. 선형 대수|길병찬|http://bit.ly/2p21pN0
 1|2.5. 자동 미분(automatic differentiation)|이주경|http://bit.ly/2qpZkuz

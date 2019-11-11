@@ -1,6 +1,11 @@
 # mlstudy2019
 2019년 머신러닝 스터디 모임
 
+> 나만 빼고 다들 아는것 같은 머신러닝.
+> 이제 초보라도 눈치 볼 필요 없이 처음부터 차근차근 공부해 나갈 수 있는 스터디 그룹이 결성되었습니다!
+> 교재로는 [Dive into Deep Learning](https://ko.d2l.ai/)를 사용하며 실습은 [colab](https://colab.research.google.com)을 이용하여 진행됩니다.
+> 모임일정은 https://www.meetup.com/awskrug/events/ 를 확인해 주세요.
+
 ## 발표자 및 발표자료
 
 **차수**|**챕터**|**발표자**|**자료링크**

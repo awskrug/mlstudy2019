@@ -24,7 +24,18 @@
 3|3.2. 선형 회귀를 처음부터 구현하기|이지현|http://bit.ly/2KEP1KG
 3|3.3. 선형 회귀의 간결한 구현|이지현|http://bit.ly/35ijIgp
 3|3.4. Softmax 회귀(regression)|정도현|http://bit.ly/2OoQOVa
-3|3.5. 이미지 분류 데이터 (Fashion-MNIST)|심의석|준비중
-3|3.6. Softmax 회귀(regression)를 처음부터 구현하기|이정학|준비중
-3|3.7. Softmax 회귀(regression)의 간결한 구현|이정학|준비중
+3|3.5. 이미지 분류 데이터 (Fashion-MNIST)|심의석|http://bit.ly/2PuTsJp
+3|3.6. Softmax 회귀(regression)를 처음부터 구현하기|이정학|http://bit.ly/2rS15l7
+3|3.7. Softmax 회귀(regression)의 간결한 구현|이정학|http://bit.ly/2rS15l7
+4|3.8. 다층 퍼셉트론 (Multilayer Perceptron)|김리원,박초영|http://bit.ly/2RCVr1a
+4|3.9. 다층 퍼셉트론(multilayer perceptron)을 처음부터 구현하기|이주경|http://bit.ly/36u7bqg
+4|3.10. 다층 퍼셉트론(multilayer perceptron)의 간결한 구현|이주경|http://bit.ly/2GtEWxm
+4|3.11. 모델 선택, 언더피팅(underfitting), 오버피팅(overfitting)|박혜지|https://bit.ly/2LySFGs
+4|3.12. 가중치 감쇠 (weight decay)|이정학|http://bit.ly/37dtj9u
+4|3.13. 드롭아웃(dropout)|이정학|http://bit.ly/2QrllT8
+5|3.14. 순전파(forward propagation), 역전파(back propagation), 연산 그래프|이상민|https://bit.ly/3aIVG0J
+5|3.15. 수치 안정성(numerical stability) 및 초기화|이상민|https://bit.ly/38GNkFE
+5|3.16. 환경|김주현|http://bit.ly/mlstudy-covariate
+
+
 
